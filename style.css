@@ -11,7 +11,7 @@ body {
     font-size: 15px;
     font-family: 'Lato', sans-serif;
     color: black;
-    min-height: 100vh;
+    min-height: 90vh;
     padding: 2rem;
     display: flex;
     justify-content: center;
